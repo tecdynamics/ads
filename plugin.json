@@ -1,5 +1,5 @@
 {
-    "name": "tecdynamics/ads",
+    "name": "Ads",
     "namespace": "Tec\\Ads\\",
     "provider": "Tec\\Ads\\Providers\\AdsServiceProvider",
     "author": "Tecdynamics LTD",
