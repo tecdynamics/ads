@@ -1,0 +1,9 @@
+{
+    "name": "tecdynamics/ads",
+    "namespace": "Tec\\Ads\\",
+    "provider": "Tec\\Ads\\Providers\\AdsServiceProvider",
+    "author": "Tecdynamics LTD",
+    "url": "https://tecdynamics.co.uk",
+    "version": "1.0",
+    "description": "Ads manager for Tec CMS"
+}
